@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SlaveAFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Firstsmpaya.aternos.me",
-    "port": 39373,
+    "ip": "LamkaSMP.aternos.me",
+    "port": 33926,
     "version": "",
     "try-creative": false
   },
@@ -31,13 +31,13 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Yes Master",
+        "I'm AFK",
+        "Jeff how did you get free"
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
